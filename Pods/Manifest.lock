@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.2.1)
+  - Kanna (5.2.2)
+  - XLPagerTabStrip (9.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kanna
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kanna
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  Kanna: 2c4eddaaa4bfb9a1ed19e53c0b3d42ef02838046
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+
+PODFILE CHECKSUM: 7a746bbe8f337326065a9d388afae354b5a9b992
+
+COCOAPODS: 1.9.3

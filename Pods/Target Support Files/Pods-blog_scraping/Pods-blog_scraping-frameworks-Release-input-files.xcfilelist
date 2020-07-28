@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-blog_scraping/Pods-blog_scraping-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Kanna/Kanna.framework
+${BUILT_PRODUCTS_DIR}/XLPagerTabStrip/XLPagerTabStrip.framework
